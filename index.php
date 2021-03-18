@@ -1,3 +1,3 @@
 <?php
 
-github prioritizes php files
+echo 'github prioritizes php files';
